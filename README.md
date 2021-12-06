@@ -1,6 +1,6 @@
 #Test
 
-Testa commit, pull, push...
+Testa commit, pull, push... PULL and merge
 
 ## change locally
 
